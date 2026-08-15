@@ -1,4 +1,4 @@
 <launch>
   <!-- D435i is the same capture graph; IMU stays with realsense2_camera. -->
-  <include file="$(find xgc_camera_d435)/launch/d435.launch"/>
+  <include file="$(find xgc2_camera_d435)/launch/d435.launch"/>
 </launch>

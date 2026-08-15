@@ -7,11 +7,11 @@ uses this repository. Vehicle repos only include the launch.
 | --- | --- |
 | `realsense2_camera` | Intel ROS 1 capture driver |
 | `realsense2_description` | Camera URDF / meshes |
-| `xgc_camera_d435` | XGC2 defaults: 1280×720 color, 848×480 depth |
+| `xgc2_camera_d435` | XGC2 defaults: 1280×720 color, 848×480 depth |
 
 ```bash
-roslaunch xgc_camera_d435 d435.launch
-roslaunch xgc_camera_d435 d435i.launch
+roslaunch xgc2_camera_d435 d435.launch
+roslaunch xgc2_camera_d435 d435i.launch
 ```
 
 | Stream | Topic | Default |

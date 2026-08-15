@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>xgc_camera_d435</name>
+  <name>xgc2_camera_d435</name>
   <version>0.1.0</version>
   <description>
     XGC2 D435 / D435i launch contract. Lives next to realsense2_camera in
