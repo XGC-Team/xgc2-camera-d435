@@ -9,7 +9,7 @@ topic/layout contract:
 
 | Stream | Topic | Size |
 | --- | --- | --- |
-| color | `/camera/color/image_raw` | 640×480 |
+| color | `/camera/color/image_raw` | 1280×720 |
 | depth | `/camera/depth/image_rect_raw` | 848×480 |
 | infra1 | `/camera/infra1/image_rect_raw` | off unless `enable_infra1:=true` |
 
